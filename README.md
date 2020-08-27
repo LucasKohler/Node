@@ -1,2 +1,2 @@
 # Node
-Arquivos exemplificando funções do NodeJS
+Arquivos exemplificando usos do NodeJS
